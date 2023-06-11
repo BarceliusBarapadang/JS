@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  margin: 0px;
+  background-color: aquamarine;
+}
+table,
+th,
+td {
+  border: 3px solid rgb(255, 255, 255);
+}
+form {
+  border: 100%;
+}
